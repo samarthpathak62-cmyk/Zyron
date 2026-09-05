@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zyron AI</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="google_sign_out">Sign out</string>
+    <string name="chats_saved_cloud">Chats saved safely to player profile</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="account_profile">Player Profile</string>
+</resources>
